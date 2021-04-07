@@ -19,7 +19,7 @@ If you think you hear it, it is worth checking he has a drink. He is getting a b
 
 
 <iframe width="420" height="315"
-src="https://www.youtube.com/embed/YbowzotBlbk&loop=1">
+src="https://www.youtube.com/embed/YbowzotBlbk">
 </iframe>
 
 

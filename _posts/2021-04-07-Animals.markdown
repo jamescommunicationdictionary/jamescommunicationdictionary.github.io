@@ -22,7 +22,7 @@ James has a dog - called Jet - and so there are lots of words he uses round dogs
 James makes a 'Blblblbl' noise for ball ( and bubble and sometimes balloon)
 
 <iframe width="420" height="315"
-src="https://www.youtube.com/embed/bY-73MG3DBI&loop=1">
+src="https://www.youtube.com/embed/bY-73MG3DBI">
 </iframe>
 
 No one else can pronounce this word!
@@ -36,7 +36,7 @@ James signs cat with his index finger of one hand
 
 
 <iframe width="420" height="315"
-src="https://www.youtube.com/embed/xaIHJehYr_U&loop=1">
+src="https://www.youtube.com/embed/xaIHJehYr_U">
 </iframe>
 
 
@@ -45,7 +45,7 @@ src="https://www.youtube.com/embed/xaIHJehYr_U&loop=1">
 James uses 'aaah' for hugs, babies, dogs or other animals. In the context of animals it is generally in reference to stroking the animal. 
 
 <iframe width="420" height="315"
-src="https://www.youtube.com/embed/DR_nJR4jS1I&loop=1">
+src="https://www.youtube.com/embed/DR_nJR4jS1I">
 </iframe>
 
 
