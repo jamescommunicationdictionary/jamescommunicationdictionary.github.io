@@ -1,2 +1,2 @@
-# sdeans0.github.io
-[This](https://sdeans0.github.io) is my personal blog, mostly about some non-work projects.
+# jamescommunicationdictionary.github.io
+[This](https://jamescommunicatoindictionary.github.io) is a website for all those involved in James' care.
