@@ -14,7 +14,7 @@ James likes meeting new people (especially dog walkers). He has a few words that
 James uses 'aaah' for hugs, babies, dogs or other animals. He sometimes uses it for 'goodbye' because people hug when they say goodbye! 
 
 <iframe width="420" height="315"
-src="https://www.youtube.com/embed/DR_nJR4jS1I&loop=1">
+src="https://www.youtube.com/embed/DR_nJR4jS1I">
 </iframe>
 
 # James
@@ -27,5 +27,5 @@ James will wave bye bye. Sometimes this is only a very small hand movement and h
 
 
 <iframe width="420" height="315"
-src="https://www.youtube.com/embed/uVMRuS_8OSk&loop=1">
+src="https://www.youtube.com/embed/uVMRuS_8OSk">
 </iframe>
