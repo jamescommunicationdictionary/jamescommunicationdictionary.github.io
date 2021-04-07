@@ -17,7 +17,6 @@ plugins:
 social:
   email: jamescommunicationdictionary@gmail.com
   github: https://github.com/jamescommunicationdictionary
-  linkedin: https://www.linkedin.com/in/samdeans/
   about: T
 
 permalink:      /blog/:title
