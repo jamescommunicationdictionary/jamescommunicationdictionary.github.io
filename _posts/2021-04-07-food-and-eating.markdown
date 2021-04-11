@@ -26,4 +26,12 @@ src="https://www.youtube.com/embed/YbowzotBlbk">
 
 # Eggs
 
+James likes cracking eggs when baking, egg sandwhiches, omlettes and most other forms of egg!
+
+<iframe width="420" height="315"
+src="https://www.youtube.com/embed/hv7GYidv-GQ">
+</iframe>
+
+
+
 # More
