@@ -1,0 +1,38 @@
+---
+layout: post
+title:  Basics
+date:   2021-04-07 10:00:00 +0100
+categories: testing
+---
+
+
+# Yes
+James will sign "yes" in response to some questions. They have to be quite direct questions, e.g. do you want cereal, while holding the cereal. You need to be careful because sometimes he will just sign "yes" to make you stop asking him questions. 
+<iframe width="420" height="315"
+src="https://www.youtube.com/embed/cYbW2RpE3bs">
+</iframe>
+
+# No
+In general James won't say "no" in response to a question, he will just ignore you. But he might say "no" in response to someone else saying "no".
+<iframe width="420" height="315"
+src="https://www.youtube.com/embed/KwwxEES0WJA">
+</iframe>
+
+
+#Please and thank-you
+James will say please and thank-you if prompted. 
+
+
+
+<iframe width="420" height="315"
+src="https://www.youtube.com/embed/IBlrtXvUImw">
+</iframe>
+
+<iframe width="420" height="315"
+src="https://www.youtube.com/embed/CCovDfbbnzg">
+</iframe>
+
+<iframe width="420" height="315"
+src="https://www.youtube.com/embed/_Qo77Z8Fjrw">
+</iframe>
+

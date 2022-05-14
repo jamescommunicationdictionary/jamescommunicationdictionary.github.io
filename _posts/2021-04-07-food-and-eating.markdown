@@ -12,6 +12,11 @@ If James wants more to drink he will make a slurping noise. He want necessarily 
 
 If you think you hear it, it is worth checking he has a drink. He is getting a bit better and answering 'yes' or just ignoring you for no, if asked if he wants a drink. 
 
+<iframe width="420" height="315"
+src="https://www.youtube.com/embed/tv2I7EEYkZg">
+</iframe>
+
+
 # Tasty 
 
 # Sausages (sometimes chips)
@@ -22,6 +27,9 @@ If you think you hear it, it is worth checking he has a drink. He is getting a b
 src="https://www.youtube.com/embed/YbowzotBlbk">
 </iframe>
 
+<iframe width="420" height="315"
+src="https://www.youtube.com/embed/tLkKkDOGc1E">
+</iframe>
 
 
 # Eggs
