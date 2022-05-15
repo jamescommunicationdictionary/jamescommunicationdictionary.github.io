@@ -1,9 +1,9 @@
 {
-  "name": "jekyll-firewall",
+  "name": "James communication dictionary",
   "version": "0.0.1",
-  "author": "Lillian Chen",
-  "description": "Password protect Jekyll posts",
-  "repository": "http://lily.work/jekyll-firewall/",
+  "author": "James communication dictionary",
+  "description": "James communication dictionary",
+  "repository": "https://github.com/jamescommunicationdictionary/jamescommunicationdictionary.github.io",
   "devDependencies": {
     "crypto-js": "^3.1.9-1",
     "fs": "0.0.1-security",
